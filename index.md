@@ -25,7 +25,9 @@ We have both android and Ios App
 
 Android link for downloading app 
 [AndroidApp](https://play.google.com/store/apps/details?id=com.paperless.app)
-[IOS](Comming soon)
+
+IOS App - Link comming soon
+
 
 
 ### Support or Contact
