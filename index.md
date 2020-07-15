@@ -1,37 +1,34 @@
-## Welcome to Paperless App
+## Paperless App
 
-You can use the [editor on GitHub](https://github.com/santubhuniya/paperless-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to paperless app, for smart budgeting and expense management. Make you budget for month and stick to you budget when you spend.This is very easy to use app and has very friendly user interface. 
+We have categories budget into three major categories
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Fixed Budget - Budget to track your monthly fixed expenses like Electric bills.
+* Daily Budget - Budget to track daily expenses like groceries, transport.
+* Goal Based Budget - Here you can target for Some amount, say repay loan for that you save some amount to every month to achieve the goal.
 
-### Markdown
+### App Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+App provides many user friendly features. 
 
-```markdown
-Syntax highlighted code block
+* easy to configure your budget
+* record when you pay 
+* get smart alert when you excceds spending limit
+* View alers for fixed expenses
+* see graphically your expesnse vs budget
+* see expenses using categories
+* Dark mode support
+* Faq to learn more
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+We have both android and Ios App
 
-1. Numbered
-2. List
+Android link for downloading app 
+[AndroidApp](https://play.google.com/store/apps/details?id=com.paperless.app)
+[IOS](Comming soon)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/santubhuniya/paperless-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please reach out to our email for any Query 
+ginnima.randhuni@gmail.com
