@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Paperless App
 
 You can use the [editor on GitHub](https://github.com/santubhuniya/paperless-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
